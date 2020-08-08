@@ -1,0 +1,4 @@
+git remote add origin https://github.com/petrusardi/capstone_scrapping.git
+git push -u origin master
+
+
